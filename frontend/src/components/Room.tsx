@@ -72,6 +72,7 @@ export const Room = ({
             const pc = new RTCPeerConnection();
 
             pc.ontrack = (e) => {
+                alert("On track")
                 const {track, type} = e;
                 if (type == 'audio') {
                     // setRemoteAudioTrack(track);
