@@ -104,7 +104,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [React.js Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
   2. Design the landing page with input fields for user details.
      - **Reading:** [CSS Modules Overview](https://github.com/css-modules/css-modules)
-     - **Video:** [CSS Modules Tutorial](https://www.youtube.com/watch?v=K1DR3y9U2HY)
+     - **Video:** [CSS Modules Tutorial](https://www.youtube.com/watch?v=HIZBe2c4M1c)
 
 - **Deliverables:**
   - Basic UI with navigation and placeholders for video elements.
@@ -131,7 +131,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Implement WebRTC APIs for video and audio streaming.
      - **Reading:** [WebRTC APIs](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-     - **Video:** [WebRTC Video Chat Tutorial](https://www.youtube.com/watch?v=VhSGUcuHAD8)
+     - **Video:** [WebRTC Video Chat Tutorial](https://www.youtube.com/watch?v=pGAp5rxv6II&t=4s)
   2. Display video streams in React components.
      - **Reading:** [React State Management](https://reactjs.org/docs/hooks-state.html)
      - **Video:** [React State Hooks](https://www.youtube.com/watch?v=O6P86uwfdR0)
@@ -145,8 +145,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Implement user matching and room logic.
 - **Tasks:**
   1. Create a queue system for user matching on the server.
-     - **Reading:** [Node.js Queues](https://nodejs.dev/learn/understanding-the-event-loop)
-     - **Video:** [Node.js Event Loop](https://www.youtube.com/watch?v=PNa9OMajw9w)
+     - **Reading:** [Node.js Queues](https://adevait.com/nodejs/introduction-to-queues-nodejs)
+     - **Video:** [Node.js Tutorial](https://www.youtube.com/watch?v=BLl32FvcdVM&t=113s)
+     - **Video:** [Node.js Event Loop](https://www.youtube.com/watch?v=YgHtWvodV1M)
+  
   2. Handle room creation and cleanup dynamically.
      - **Reading:** [Socket.IO Rooms](https://socket.io/docs/v4/rooms/)
      - **Video:** [Socket.IO Room Management](https://www.youtube.com/watch?v=8BtPKXgNC1Q)
@@ -161,10 +163,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Deploy the frontend to Netlify or Vercel and the backend to Heroku.
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=17UVejOw3zA)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=CdU75u7uIvE)
   2. Test WebRTC functionality across different browsers and devices.
-     - **Reading:** [WebRTC Testing](https://webrtc.org/testing/)
-     - **Video:** [WebRTC Troubleshooting](https://www.youtube.com/watch?v=Du77vczWfOY)
+     - **Reading:** [WebRTC Testing](https://webrtc.org/getting-started/testing)
+     - **Video:** [WebRTC Troubleshooting](https://www.youtube.com/watch?v=rjWHwMZSXYk)
 
 - **Deliverables:**
   - Deployed Omegle Clone accessible via a public URL.
