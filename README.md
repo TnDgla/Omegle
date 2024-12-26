@@ -175,6 +175,10 @@ This project is structured to ensure a systematic and incremental development pr
 ### Screenshots
 
 ![image](https://github.com/user-attachments/assets/5c4c50d2-6939-474d-8ec7-0eeae25a1aba)
+![Screenshot (437)](https://github.com/user-attachments/assets/6c9a107a-473a-4b24-98d4-a81c165ffcae)
+![Screenshot (438)](https://github.com/user-attachments/assets/c0fcc147-ab8f-4274-861e-d1f10c2cf33d)
+![Screenshot (436)](https://github.com/user-attachments/assets/48c7d59e-1934-4682-b0c5-456019c1d9a1)
+
 
 ---
 ### **References**
