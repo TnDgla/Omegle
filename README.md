@@ -80,7 +80,8 @@ The application workflow involves users entering the platform, being queued for 
 
 ### **FlowChart**
 
-![image](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)
+![image](https://github.com/user-attachments/assets/39f1b471-115c-463e-925b-0839aff0ebfb)
+
 
 ---
 
