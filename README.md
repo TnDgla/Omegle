@@ -1,6 +1,6 @@
-### **Project Name: Google  Meet Clone**
+### **Project Name: Omegle Clone**
 
-The **Google Meet Clone** is a real-time video chatting application built using **WebRTC, React, Node.js, and Socket.IO**. It connects random users for one-on-one video calls, simulating the functionality of Omegle. The project demonstrates the use of peer-to-peer communication protocols and modern web technologies.
+The **Omegle Clone** is a real-time video chatting application built using **WebRTC, React, Node.js, and Socket.IO**. It connects random users for one-on-one video calls, simulating the functionality of Omegle. The project demonstrates the use of peer-to-peer communication protocols and modern web technologies.
 
 ---
 
@@ -188,4 +188,3 @@ This project is structured to ensure a systematic and incremental development pr
 4. [Node.js Documentation](https://nodejs.org/en/docs/)
 5. https://youtube.com/watch?v=0MIsI2xh9Zk
 6. https://github.com/hkirat/omegle
-
